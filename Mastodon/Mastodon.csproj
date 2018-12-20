@@ -79,9 +79,6 @@
     <Reference Include="Mastodot">
       <HintPath>..\packages\Mastodot.1.1.2\lib\net46\Mastodot.dll</HintPath>
     </Reference>
-    <Reference Include="Mastonet">
-      <HintPath>..\packages\Mastonet.1.4.0\lib\netstandard2.0\Mastonet.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
