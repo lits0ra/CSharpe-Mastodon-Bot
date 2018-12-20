@@ -76,8 +76,8 @@
     <Reference Include="System.Net.Http">
       <HintPath>..\packages\System.Net.Http.4.3.1\lib\net46\System.Net.Http.dll</HintPath>
     </Reference>
-    <Reference Include="Mastodot">
-      <HintPath>..\packages\Mastodot.1.1.2\lib\net46\Mastodot.dll</HintPath>
+    <Reference Include="Mastonet">
+      <HintPath>..\packages\Mastonet.1.4.0\lib\netstandard2.0\Mastonet.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
