@@ -105,3 +105,10 @@
 /Users/kandasora/projects/Mastodon/Mastodon/bin/Debug/Newtonsoft.Json.xml
 /Users/kandasora/projects/Mastodon/Mastodon/bin/Debug/Mastonet.pdb
 /Users/kandasora/projects/Mastodon/Mastodon/obj/x86/Debug/Mastodon.csproj.CopyComplete
+/Users/kandasora/projects/Mastodon/Mastodon/bin/Debug/Mastodot.dll
+/Users/kandasora/projects/Mastodon/Mastodon/bin/Debug/System.Reactive.Core.dll
+/Users/kandasora/projects/Mastodon/Mastodon/bin/Debug/System.Reactive.Interfaces.dll
+/Users/kandasora/projects/Mastodon/Mastodon/bin/Debug/System.Reactive.Linq.dll
+/Users/kandasora/projects/Mastodon/Mastodon/bin/Debug/System.Reactive.Interfaces.xml
+/Users/kandasora/projects/Mastodon/Mastodon/bin/Debug/System.Reactive.Core.xml
+/Users/kandasora/projects/Mastodon/Mastodon/bin/Debug/System.Reactive.Linq.xml
